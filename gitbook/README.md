@@ -2,7 +2,7 @@
 description: Hier bekommst du eine Übersicht über diesen Kurs und seine Lernziele.
 ---
 
-# Was du lernst
+# Kursübersicht
 
 Willkommen zu diesem interaktiven Einführungskurs in die Welt der Programmierung! Dieser Kurs ist speziell dafür konzipiert, dir einen spannenden und spielerischen Einstieg in die Grundlagen der Programmierung zu bieten. Wir nutzen hierfür OctoStudio, eine intuitive und benutzerfreundliche App für dein Smartphone oder Tablet, die als Weiterentwicklung von Scratch verstanden werden kann. Keine Sorge, wenn du bisher keine Erfahrung mit Programmierung hast – dieser Kurs ist genau dafür gedacht, dir alles Notwendige von Grund auf beizubringen.
 
@@ -17,6 +17,7 @@ Unser Ziel ist es, dir die Grundlagen der Programmierung auf eine unterhaltsame 
 * Wie kann ein Programm eine Entscheidung treffen?
 * Was ist mit Funktionen gemeint und wozu benötige ich sie?
 * Wie führe ich denselben Befehl mehrmals aus?
+* Wie kann ein Programm sich Dinge merken?
 
 ## Dauer des Kurses
 
