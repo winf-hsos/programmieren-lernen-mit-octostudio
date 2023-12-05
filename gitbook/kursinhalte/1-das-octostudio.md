@@ -36,4 +36,11 @@ Wir beginnen in diesem Kurs mit einem leeren Projekt. Klickt daher auf den grün
 
 Es ist egal, womit wir beginnen, da wir am Ende beides benötigen.
 
+<div align="center">
+
 <figure><img src="../images/octostudio_new_project_sprite_or_backdrop.jpg" alt="" width="307"><figcaption><p>Was soll zuerst ausgewählt werden?</p></figcaption></figure>
+
+
+<figure><img src="../images/octostudio_new_project_sprite_or_backdrop.jpg" alt="" width="307"><figcaption><p>Auswahlbildschirm eines "Sprites".</p></figcaption></figure>
+
+</div>
