@@ -8,3 +8,5 @@ description: >-
 # Das OctoStudio
 
 {% embed url="https://octostudio.org/" %}
+
+![Startbildschirm der OctoStudio-App](../images/octostudio_start_screen.jpg)
