@@ -18,9 +18,7 @@ Installiert die App auf eurem Smartphone oder Tablet und startet sie. Ihr sollte
 <div align="center">
 
 <figure><img src="../images/octostudio_start_screen.jpg" alt="Startbildschirm der OctoStudio-App" width="307"><figcaption><p>Startbildschirm der OctoStudio-App.</p></figcaption></figure>
-
  
-
-<figure><img src="../.gitbook/assets/octostudio_explore_screen.jpg" alt="" width="307"><figcaption><p>Beispielprojekt findet man unter "Explore".</p></figcaption></figure>
+<figure><img src="../images/octostudio_explore_screen.jpg" alt="" width="307"><figcaption><p>Beispielprojekt findet man unter "Explore".</p></figcaption></figure>
 
 </div>
